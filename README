@@ -1,4 +1,4 @@
-#Initial Setup.
+# Initial Setup.
 
 To setup python you should:
 1. Go to Edit > Project settings > Player > Other Settings > Configuration; Change there Scripting Runtime Version to '.NET 4.x Equivalent'
